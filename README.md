@@ -1,10 +1,5 @@
-# Razroo NPM Starter
+# Codemod AI Playground
 
-## How To Use Repo As A Playground
+This is to prove that can accomplish https://github.com/razroo/codemorph/ with 100% of the intended result using AI only.
 
-`
-npm install;
-npm install ts-node -g
-ts-node <path-to-file>
-`
-
+If this is indeed the case, codemorph would more so be there as a build time tool and/or a fall back if AI doesn't work.
